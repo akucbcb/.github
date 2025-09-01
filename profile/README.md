@@ -10,7 +10,7 @@ Additional funding was received to create systems for in-house utilization of th
 
 Our external funding and support from the Office of the Dean makes it possible for us to create a workforce capable of critically analyzing and drawin​​g meaningful conclusions from the data. ​The Centre has been keeping an eye on the evolving SARS-CoV-2 variants and is taking part in the genomic surveillance of other pathogens. We are collaborating with clinical diagnostics at the Department of Pathology and Laboratory Medicine to develop in-house pipelines for variant testing. 
 
-# Group members
+# Group Members
 
 ## Director​ | Prof. Fyezah Jehan
 
