@@ -1,4 +1,4 @@
-# The Center for Bioinformatics and Computational Biology (CBCB)
+# [The Center for Bioinformatics and Computational Biology (CBCB)](https://www.aku.edu/mcpk/cbcb/Pages/home.aspx#)
 
 [The Centre for Bioinformatics and Computational Biology](https://www.aku.edu/mcpk/cbcb/Pages/home.aspx) at [Aga Khan University](https://www.aku.edu/Pages/home.aspx) promotes analysis of data generated from various omics such as 16s rRNA and shotgun metagenomics, genomics, transcriptomics, epigenomics and ensures that storage space and computational power is available.​
 ​​The journey started with the establishment of a biorepository of 2,500 pregnant women and their newborns between 2014 and 2017 as part of the Alliance for Maternal and Newborn Health Improvement (AMANHI) study funded by the Bill & Melinda Gates Foundation. This landmark project established that a high-quality biorepository can very well be created in a low-middle-income country setting with the necessary zeal and commitment.
