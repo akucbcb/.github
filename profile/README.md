@@ -9,3 +9,8 @@ Additional funding was received to create systems for in-house utilization of th
 
 
 Our external funding and support from the Office of the Dean makes it possible for us to create a workforce capable of critically analyzing and drawin​​g meaningful conclusions from the data. ​The Centre has been keeping an eye on the evolving SARS-CoV-2 variants and is taking part in the genomic surveillance of other pathogens. We are collaborating with clinical diagnostics at the Department of Pathology and Laboratory Medicine to develop in-house pipelines for variant testing. 
+
+## Group members
+
+## Director​ | Prof. Fyezah Jehan
+Dr. Fyezah Jehan is the chair of the Department of Paediatrics & Child Health at Aga Khan University, and specializes in Infectious Disease. Her research portfolio spans Maternal, Newborn, and Child Health, and she has publis​he​​​d over 130 articles. She is an active member of international boards, including the WHO's STAGE on Maternal Newborn Child Adolescent Health and Nutrition and the Medical Research Council Applied Global Health Research Board of Faculty. ​Her research centers on applying innovative methodologies to comprehend and tackle the morbidity and mortality in Global Maternal, Newborn, and Child Health. She was recently recognized as an ASTMH Distinguished International Fellow and a Goalkeeper for the​​ Sustainable Development Goals, an initiative by the Bill & Melinda Gates Foundation.​
