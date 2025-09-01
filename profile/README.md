@@ -32,22 +32,22 @@ Dr. Zahra Hasan is the Gulamali Hirji endowed Professor at Department of Patholo
 
 Dr. Najeeha Talat Iqbal is a basic scientist with specialization in immunology, gut microbiome analysis, and identification of biomarkers of diseases and progression. She is currently serving as Vice Chair Research and Associate Professor at the Biological and Biomedical Sciences Department with joint appointment with the Department of Paediatrics & Child Health. Dr. Iqbal is a distinguished researcher with contributions to infectious disease, environmental enteric dysfunction, and gut microbiome research. Her expertise is reflected in her publications on the gut microbiome (mSphere, 2023), research of Vitamin D and Tuberculosis (EID, 2010), PLOS Medicine (2019) and The Lancet (2020), and SARS CoV-2 publications in Nature and Science. Dr. Iqbal manages a grant portfolio of over $2.1 million and Rs6.1 million from organizations such as NIH Fogarty, the Higher Education Commission of Pakistan. She received the 2023 Pakistan Academy of Sciences Gold Medal in Biological Sciences and has served as member of technical expert’s groups in many international committees, and served as part of scientific committee for travel bursaries in Wellcome Sanger institute UK.​
 
-## D​​r. Mehreen Arshad
+## [D​​r. Mehreen Arshad](https://www.linkedin.com/in/mehreen-arshad-57799174/)
 
 Dr. Mehreen Arshad is a Paediatric Infectious Diseases physician and basic and translational researcher with an interest in antimicrobial resistance, perinatal transmission of bacterial pathogens, and infections in the immunocompromised hosts. She is an Associate Professor of Paediatrics & Child Health at AKU with an adjunct faculty position at Lurie Children’s Hospital in Chicago. Dr Arshad is the principal investigator of a basic science lab at Lurie Children’s and has been awarded multiple grants through the NIH and CDC. Sh​e is a Fellow of the American Academy of Pediatrics and Pediatric Infectious Diseases Society, and an elected member of Society of Pediatric Research, US. She serves on the NIH study sections and as the co-Chair of Young World Society of Pediatric Infectious Diseases.​
 
 
 # Core Research Staff
 
-## Dr. Na​​​​veed Iqbal
+## [Dr. Na​​​​veed Iqbal](https://www.linkedin.com/in/naveed-iqbal-ph-d-ba8a2b283/)
 
 Dr. Naveed Iqbal earned his ​PhD in Functional Genomics through a split fellowship from the NIBGE, Pakistan, and the BGI, Shenzhen. His doctoral research focused on genomics and big data analysis, with a primary interest in identifying selection signatures linked to key ma​​mmalian traits and advancing human health by exploring the genetic basis of hereditary diseases. ​As a research fellow at BGI, Dr. Iqbal​ contributed to international collaborative projects in microbial genomics, metagenomics, and metabolomics. His recent work includes uncovering differential genomic responses of SARS-CoV-2 to environmental stressors and identifying biosynthetic gene clusters for microbial secondary metabolites. ​Over the pa​​st two years, at AKU, he has been involved in multisite WHO and B&MGF funded research projects such as AMANHI, MOMI, and EMP, with a focus on maternal gut microbiome and its association with birth outcomes.
 
-## Dr. Syeda R​​ehana Zia
+## [Dr. Syeda R​​ehana Zia](https://scholar.google.com/citations?user=aQ1QisYAAAAJ&hl=en)
 
 Dr. Syeda Rehana Zia holds a PhD in Drug Discovery with a Specialization in Computational Chemistry, from the University of Genova, Italy at the School of Life and Humanoid Technology-XXVIII Cycle. She completed her MSc in Inorganic Chemistry and BSc (Hons) from the Department of Chemistry, University of Karachi. She has served as a Research Officer at PCMD, ICCBS and as a Teaching Associate at UoK. In 2022, she joined the Department of Paediatrics & Child Health as a postdoctoral fellow, where she extended her interest to Bioinformatics techniques, such as clinical metagenomics and analyzing NGS data. She has​​​ authored several publications in international peer-reviewed journals. 
 
-## ​​Ms. Sa​​miah Kanwar
+## ​​[Ms. Sa​​miah Kanwar](https://www.linkedin.com/in/samiah-kanwar-278296b4/)
 
 Samiah Kanwar is a researcher with a background in bioinformatics, serving as an Instructor at The Aga Khan University, Karachi. She holds a MS in Bioinformatics from COMSATS University, Islamabad, where she graduated with distinction. With expertise in advanced genomic analysis, machine learning, and interdisciplinary collaboration, Samiah has contributed to global projects, including pneumococcal genomic surveillance, the implementation of SARS-CoV-2 phylosurveillance ​in Pakistan, and wastewater metagenomics for infectious disease tracking. Her research focuses on Klebsiella pneumoniae and Escherichia coli in paediatric infectious diseases, providing insights into antimicrobial resistance. Proficient in Linux, Python, R and Docker, Samiah deploys Bioinformatics pipelines and performs complex data analysis. ​
 
@@ -55,14 +55,14 @@ Samiah Kanwar is a researcher with a background in bioinformatics, serving as an
 
 Umar Amjid is a Research Specialist at CBCB with background in Bioinformatics, Computational Biology, computational vaccines development and Metagenomics. He holds a MS in Bioinformatics from the National University of Sciences and Technology and a BS in Biotechnology from COMSATS University, Islamabad. His research is on metagenomic profiling of bacterial and viral communities within maternal and infant gut microbiomes, investigating microbial shifts associated with pregnancy outcomes, including preterm births and child neurodevelopment. Umar works on antimicrobial resistance profiling and functional metagenomics, with an interest in understanding microbial dynamics in low- and middle-income countries. Umar manages the in house high-performance computing infrastructure dedicated to Bioinformatics research at AKU. His technical proficiency spans a range of skills and tools essential for our research (Linux, Python, R, Git, AWS, Docker, HPC, Snakemake, Nextflow, Metagenomics, AMR & Pathogen surveillance).
 
-## Ms. I​​qra Saleh
+## [Ms. I​​qra Saleh](https://www.linkedin.com/in/iqrasaleh/)
 
 Iqra Saleh is a Research Associate at Aga Khan University, holding both a BS (COMSATS University, Sahiwal) and MS degree in Bioinformatics (COMSATS University, Islamabad). She completed her bachelor’s at Sahiwal campus, and her master’s at COMSATS University Islamabad, main campus. Iqra has extensive expertise in genomics projects, variant call analysis for genetic disorders, such as, cystic fibrosis, an​​​​d pathogen genomics analysis, which includes working with Group B Streptococcus (GBS) and pneumococcal genomic surveillance data analysis to aid in the development of vaccines for diseases like pneumonia and meningitis in children and neonates. Additionally, she is skilled in designing and automating Bioinformatics pipelines for various biological analyses and testing a specification package to globalize wastewater surveillance metadata for worldwide studies.
 
 
 # Doctoral Candidates
 
-## ​​​Mr. M. Mo​hsin Mannan | PhD Candidate
+## ​​​[Mr. M. Mo​hsin Mannan | PhD Candidate](https://www.linkedin.com/in/mohsinmannan/)
 
 M. Mohsin Mannan holds a baccalaureate in Physiology and an MPhil in Biotechnology from University of Karachi, with over eight years of experience in performing commonly applied wet laboratory techniques and using data analysis tools. Mr. Mannan is affiliated with the Department of Paediatrics & Child Health at Aga Khan University and is pursuing his PhD in Biological Sciences. His PhD thesis is on maternal and fetal genetic and met​​abo​​lic factors associated with multifaceted pregnancy-related traits and adverse pregnancy outcomes. His research interests include maternal, neonatal and child health, low-pass whole genome sequencing (lp-WGS) data analysis, integrative omics/multiomics, metabolomics genome-wide association study and expression patterns of distinct non-coding RNAs in pregnancy.​​​
 
