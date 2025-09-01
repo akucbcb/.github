@@ -14,4 +14,6 @@ Our external funding and support from the Office of the Dean makes it possible f
 
 ## Director​ | Prof. Fyezah Jehan
 
+![Uploading image.png…]()
+
 Dr. Fyezah Jehan is the chair of the Department of Paediatrics & Child Health at Aga Khan University, and specializes in Infectious Disease. Her research portfolio spans Maternal, Newborn, and Child Health, and she has publis​he​​​d over 130 articles. She is an active member of international boards, including the WHO's STAGE on Maternal Newborn Child Adolescent Health and Nutrition and the Medical Research Council Applied Global Health Research Board of Faculty. ​Her research centers on applying innovative methodologies to comprehend and tackle the morbidity and mortality in Global Maternal, Newborn, and Child Health. She was recently recognized as an ASTMH Distinguished International Fellow and a Goalkeeper for the​​ Sustainable Development Goals, an initiative by the Bill & Melinda Gates Foundation.​
