@@ -51,6 +51,10 @@ Dr. Syeda Rehana Zia holds a PhD in Drug Discovery with a Specialization in Comp
 
 Iqra Saleh is a Research Associate at Aga Khan University, holding both a BS (COMSATS University, Sahiwal) and MS degree in Bioinformatics (COMSATS University, Islamabad). She completed her bachelor’s at Sahiwal campus, and her master’s at COMSATS University Islamabad, main campus. Iqra has extensive expertise in genomics projects, variant call analysis for genetic disorders, such as, cystic fibrosis, an​​​​d pathogen genomics analysis, which includes working with Group B Streptococcus (GBS) and pneumococcal genomic surveillance data analysis to aid in the development of vaccines for diseases like pneumonia and meningitis in children and neonates. Additionally, she is skilled in designing and automating Bioinformatics pipelines for various biological analyses and testing a specification package to globalize wastewater surveillance metadata for worldwide studies.
 
+## Ms. Fareeha Jafar
+
+Fareeha Jafar is a Research Associate at the Center for Bioinformatics and Computational Biology (CBCB), Aga Khan University. She holds a Master’s degree in Biotechnology from BUITEMS University, Balochistan, where her final year project focused on metagenomics. In her current role, she contributes to multiple metagenomics research projects, applying computational and biological expertise to advance research in bioinformatics and microbial genomics.
+
 
 # Doctoral Candidates
 
